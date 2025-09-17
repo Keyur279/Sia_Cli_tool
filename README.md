@@ -55,7 +55,7 @@ The generated blob contains binary-encoded transaction data:
 
 ## Integration
 
-This tool generates unsigned transactions for signing with the companion [Sia_Signing](https://github.com/Keyur279/Sia-Signing) C application.
+This tool generates unsigned transactions for signing with the companion [Sia_Signing](https://github.com/Keyur279/Sia_Signing) C application.
 
 ## Currency Conversion
 
